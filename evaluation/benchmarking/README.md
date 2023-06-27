@@ -1,0 +1,1 @@
+Generate a benchmark output by running ```python3 detect.py --input-dir ../evaluation/benchmarking --input-file gopro_960px_downscale.mp4 --stats``` in the /processing dir

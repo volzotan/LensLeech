@@ -1,0 +1,1 @@
+![lowlight performance plot](plot_patternvslight.png)

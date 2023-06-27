@@ -1,0 +1,14 @@
+Cameras are used as the primary input device for a wide range of interaction techniques at various distances, yet they are constrained by geometry and require a minimum focal distance.
+We present the LensLeech, a deformable silicone attachment that enables On-Lens Interaction and can be placed directly on a camera to measure translation, rotation, and deformation.
+This is done by fabricating a clear silicone body with a lens surface to focus light from the opposing surface. The resulting image is always in focus even when the silicone attachment is closer to the camera than the minimum focal distance of the lens. On the top surface is a color-coded marker pattern that allows to uniquely identify each point even when the material is deformed.
+Based on the marker points we can sense four basic interaction patterns. 
+The silicone body can be pushed sideways and used like a joystick. 
+It can be rotated around the optical axis.
+Pressed like a button,
+and squeezed.
+We present application examples using the LensLeech and various addons for existing devices: 
+For small, body-worn cameras like action cameras or lifeloggers with a wide-angle lens but little physical space for buttons, the LensLeech can provide the functionality of a tangible knob to change settings.
+With large cameras and interchangeable lenses, the silicone can be integrated into a lens cap, making it easy to quickly traverse large amounts of captured images on old devices with no touchscreens.
+However, optical attachments can not only provide input. When combining the LensLeech with a set of lenses, a prism, and a beamsplitter, we can create a hybrid viewfinder. That's a completely passive smartphone photography add-on that slides over the display. Visual output is provided by redirecting a section of the smartphone screen into an optical viewfinder, providing a digital overlay over the viewfinder image. The rear camera remains unobstructed for the task of taking pictures while the LensLeech can make use of the front camera to change settings and act as a shutter release button.
+In general, the proposed concept has several beneficial properties. Silicone attachments are a simple, inexpensive way of enabling rich, tangible interaction directly on or above an otherwise unused camera lens. The silicone is soft and will not damage glass elements or coatings of lenses.
+It requires no hardware modifications of existing or future devices and it is unpowered, requiring only ambient illumination.

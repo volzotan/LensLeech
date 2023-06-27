@@ -1,0 +1,120 @@
+1
+00:00:02,160 --> 00:00:07,860
+Cameras are used as the primary input device  for a wide range of interaction techniques at  
+
+2
+00:00:07,860 --> 00:00:13,800
+various distances, yet they are constrained by  geometry and require a minimum focal distance. 
+
+3
+00:00:13,800 --> 00:00:21,000
+We present the LensLeech, a deformable silicone  attachment that enables On-Lens Interaction and  
+
+4
+00:00:21,000 --> 00:00:26,519
+can be placed directly on a camera to measure  translation, rotation, and deformation. 
+
+5
+00:00:26,519 --> 00:00:32,880
+This is done by fabricating a clear silicone  body with a lens surface to focus light from the  
+
+6
+00:00:32,880 --> 00:00:39,780
+opposing surface. The resulting image is always in  focus even when the silicone attachment is closer  
+
+7
+00:00:39,780 --> 00:00:46,380
+to the camera than the minimum focal distance  of the lens. On the top surface is a color-coded  
+
+8
+00:00:46,380 --> 00:00:52,380
+marker pattern that allows to uniquely identify  each point even when the material is deformed. 
+
+9
+00:00:52,380 --> 00:00:57,000
+Based on the marker points we can  sense four basic interaction patterns. 
+
+10
+00:00:58,020 --> 00:01:02,820
+The silicone body can be pushed  sideways and used like a joystick. 
+
+11
+00:01:03,539 --> 00:01:06,780
+It can be rotated around the optical axis. 
+
+12
+00:01:06,780 --> 00:01:10,019
+Pressed like a button, and squeezed. 
+
+13
+00:01:15,299 --> 00:01:21,479
+We present application examples using the  LensLeech and various addons for existing devices: 
+
+14
+00:01:22,439 --> 00:01:25,739
+For small, body-worn cameras like action cameras  
+
+15
+00:01:25,739 --> 00:01:29,879
+or lifeloggers with a wide-angle lens  but little physical space for buttons,  
+
+16
+00:01:29,879 --> 00:01:34,619
+the LensLeech can provide the functionality  of a tangible knob to change settings. 
+
+17
+00:01:37,200 --> 00:01:43,079
+With large cameras and interchangeable lenses,  the silicone can be integrated into a lens cap,  
+
+18
+00:01:43,079 --> 00:01:47,640
+making it easy to quickly traverse  large amounts of captured images  
+
+19
+00:01:47,640 --> 00:01:54,719
+on old devices with no touchscreens. However, optical attachments can not only  
+
+20
+00:01:54,719 --> 00:02:01,140
+provide input. When combining the LensLeech with a  set of lenses, a prism, and a beamsplitter, we can  
+
+21
+00:02:01,140 --> 00:02:07,079
+create a hybrid viewfinder. That's a completely  passive smartphone photography add-on that slides  
+
+22
+00:02:07,079 --> 00:02:12,539
+over the display. Visual output is provided  by redirecting a section of the smartphone  
+
+23
+00:02:12,539 --> 00:02:18,359
+screen into an optical viewfinder, providing  a digital overlay over the viewfinder image.  
+
+24
+00:02:19,020 --> 00:02:24,780
+The rear camera remains unobstructed for the  task of taking pictures while the LensLeech  
+
+25
+00:02:24,780 --> 00:02:29,759
+can make use of the front camera to change  settings and act as a shutter release button. 
+
+26
+00:02:30,659 --> 00:02:37,680
+In general, the proposed concept has several  beneficial properties. Silicone attachments are a  
+
+27
+00:02:37,680 --> 00:02:44,280
+simple, inexpensive way of enabling rich, tangible  interaction directly on or above an otherwise  
+
+28
+00:02:44,280 --> 00:02:50,819
+unused camera lens. The silicone is soft and will  not damage glass elements or coatings of lenses. 
+
+29
+00:02:51,539 --> 00:02:55,199
+It requires no hardware modifications  of existing or future devices  
+
+30
+00:02:55,860 --> 00:02:59,700
+and it is unpowered, requiring  only ambient illumination.
+

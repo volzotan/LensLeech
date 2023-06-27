@@ -1,0 +1,7 @@
+opencv-python
+picamera2
+
+adafruit-blinka
+adafruit-circuitpython-bh1750
+adafruit-circuitpython-vcnl4040
+adafruit-circuitpython-tsl2591

@@ -1,0 +1,1 @@
+/Applications/Blender.app/Contents/MacOS/Blender --python create_scene_hex.py -- -i hexpattern.json
